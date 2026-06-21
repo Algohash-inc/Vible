@@ -1,0 +1,21 @@
+# 共用：免把本機產物 / 密鑰入 git
+.env
+out.wav
+*.wav
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# Rust
+rust/target/
+rust/Cargo.lock
+
+# Go
+*.test
+
+# C++
+cpp/build/

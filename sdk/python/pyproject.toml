@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vible"
+version = "1.0.0"
+description = "Vible SDK — client for the OpenAI-compatible Vible /v1 API (chat, audio, realtime, cloud calls)."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+dependencies = []   # 核心零相依（標準庫）
+
+[project.optional-dependencies]
+realtime = ["websockets>=12"]   # 只有 Vible.realtime() 用到
+openai = ["openai>=1.30", "httpx<0.28"]   # 想用官方 openai SDK drop-in 時
+
+[tool.setuptools]
+packages = ["vible"]

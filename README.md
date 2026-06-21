@@ -233,6 +233,29 @@ On-device features are yours to keep, free. Pay only when you want cloud GPU spe
 
 ---
 
+## 🧩 Build on Vible — API & SDK
+
+Vible exposes an **OpenAI-compatible `/v1` API** on your machine (`127.0.0.1:7770`) and on your
+cloud workspace (`https://<you>.api.vible.space`). Point any agent or OpenAI SDK at it — chat,
+stream, list models, **speak (TTS), transcribe (STT), hold a voice turn, even ring your device** —
+just swap `base_url` + `api_key` (grab yours in the app's **API** tab).
+
+The [`sdk/`](sdk/) folder ships a reusable client library **and** runnable samples in five languages:
+
+| Python | Node.js | Rust | Go | C++ |
+|--------|---------|------|----|-----|
+| [`sdk/python`](sdk/python/) | [`sdk/node`](sdk/node/) | [`sdk/rust`](sdk/rust/) | [`sdk/go`](sdk/go/) | [`sdk/cpp`](sdk/cpp/) |
+
+```python
+from vible import Vible
+v = Vible()                                  # auto-resolves your key from the running app
+print(v.chat("introduce yourself in one line"))
+```
+
+See [`sdk/README.md`](sdk/README.md) for the full endpoint reference.
+
+---
+
 ## ❓ FAQ
 
 <details>

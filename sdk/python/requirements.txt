@@ -1,0 +1,2 @@
+# 核心 SDK 零相依（只用標準庫）。以下只係選擇性：
+websockets>=12   # Vible.realtime() WebSocket 用

@@ -1,0 +1,20 @@
+{
+  "name": "@vible/sdk",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Vible SDK — client for the OpenAI-compatible Vible /v1 API (chat, audio, realtime, cloud calls). Zero deps, Node 21+.",
+  "main": "src/vible.mjs",
+  "exports": { ".": "./src/vible.mjs" },
+  "engines": { "node": ">=21" },
+  "scripts": {
+    "chat": "node samples/chat.mjs",
+    "stream": "node samples/stream.mjs",
+    "models": "node samples/models.mjs",
+    "speech": "node samples/speech.mjs",
+    "transcribe": "node samples/transcribe.mjs",
+    "converse": "node samples/converse.mjs",
+    "call": "node samples/call.mjs",
+    "realtime": "node samples/realtime.mjs"
+  }
+}
