@@ -1,5 +1,11 @@
 <div align="center">
 
+**English** · [繁體中文](README.zh-Hant.md) · [简体中文](README.zh-Hans.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
+
+</div>
+
+<div align="center">
+
 <img src="banner.png" alt="Vible — Speak · Polish · Translate" width="100%" />
 
 # Vible — Your voice, polished into perfect text
