@@ -10,13 +10,15 @@
 
 # Vible — Votre voix, sublimée en un texte parfait
 
-**Parlez. Peaufinez. Traduisez.** En local, instantané et privé — une couche vocale complète pour votre Mac.
+**Parlez. Peaufinez. Traduisez.** En local, instantané et privé — une couche vocale complète pour votre Mac et votre PC Windows.
 
 <br/>
 
-[![⬇ Download Vible 2.0.3](https://img.shields.io/badge/⬇_Download-Vible_2.0.3_(.dmg)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg)
+[![⬇ Download for macOS](https://img.shields.io/badge/⬇_Download-macOS_(.dmg)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg)
+[![⬇ Download for Windows](https://img.shields.io/badge/⬇_Download-Windows_(.exe)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible-Setup.exe)
 
 ![macOS 12+](https://img.shields.io/badge/macOS-12%2B-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
+![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
 ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-native-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
 ![Signed & Notarized](https://img.shields.io/badge/Signed_%26_Notarized-✓-34d399?style=for-the-badge&labelColor=0A0B0E)
 
@@ -115,6 +117,8 @@ Besoin d'un débit maximal et des voix neuronales les plus riches ? Activez un s
 ## 🚀 Installation
 
 > [**⬇ Download Vible.dmg**](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg) — puis suivez les étapes dans votre langue ci-dessous.
+>
+> **Sous Windows ?** Téléchargez plutôt [`Vible-Setup.exe`](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible-Setup.exe), lancez l'installateur, puis ouvrez Vible. Autorisez le micro et maintenez **`Ctrl+Alt`** pour parler (remplace `⌃⌘` sur macOS) ; double-tapez **`Ctrl+C`** pour traduire.
 
 <details open>
 <summary><b>English</b></summary>
@@ -220,7 +224,7 @@ Besoin d'un débit maximal et des voix neuronales les plus riches ? Activez un s
 
 - Un Mac avec **Apple Silicon** (M1 ou plus récent)
 - **macOS 12 Monterey** ou plus récent
-- ~600 Mo à télécharger · installation en quelques secondes · **Windows & Linux bientôt disponibles**
+- ~600 Mo à télécharger · installation en quelques secondes · **Windows 10/11 disponible** · Linux bientôt
 
 ---
 
@@ -250,7 +254,7 @@ Oui. Les modèles de reconnaissance vocale et de synthèse vocale par défaut to
 <details>
 <summary><b>Quels Mac sont pris en charge ?</b></summary>
 
-Tout Mac Apple Silicon (M1 ou plus récent) sous macOS 12 ou une version ultérieure. L'app est signée et notarisée. Les versions Windows et Linux sont sur la feuille de route.
+Tout Mac Apple Silicon (M1 ou plus récent) sous macOS 12 ou une version ultérieure. L'app est signée et notarisée. Une version signée et notarisée pour Windows 10/11 est disponible dès maintenant ; la version Linux est sur la feuille de route.
 </details>
 
 <details>

@@ -10,13 +10,15 @@
 
 # Vible — あなたの声を、完璧なテキストへ磨き上げる
 
-**話す。磨く。翻訳する。** オンデバイスで、瞬時に、そしてプライベートに — Mac のための、まるごとの音声レイヤー。
+**話す。磨く。翻訳する。** オンデバイスで、瞬時に、そしてプライベートに — Mac と Windows PC のための、まるごとの音声レイヤー。
 
 <br/>
 
-[![⬇ Download Vible 2.0.3](https://img.shields.io/badge/⬇_Download-Vible_2.0.3_(.dmg)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg)
+[![⬇ Download for macOS](https://img.shields.io/badge/⬇_Download-macOS_(.dmg)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg)
+[![⬇ Download for Windows](https://img.shields.io/badge/⬇_Download-Windows_(.exe)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible-Setup.exe)
 
 ![macOS 12+](https://img.shields.io/badge/macOS-12%2B-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
+![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
 ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-native-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
 ![Signed & Notarized](https://img.shields.io/badge/Signed_%26_Notarized-✓-34d399?style=for-the-badge&labelColor=0A0B0E)
 
@@ -115,6 +117,8 @@ Vible は **すべてローカルで** 動作します — 音声からテキス
 ## 🚀 インストール
 
 > [**⬇ Vible.dmg をダウンロード**](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg) — その後、下記のあなたの言語の手順に従ってください。
+>
+> **Windows をお使いですか？** 代わりに [`Vible-Setup.exe`](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible-Setup.exe) をダウンロードし、インストーラーを実行して Vible を起動します。マイクを許可し、**`Ctrl+Alt`** を押しながら話します（macOS の `⌃⌘` に相当）。翻訳は **`Ctrl+C`** をダブルタップ。
 
 <details open>
 <summary><b>English</b></summary>
@@ -220,7 +224,7 @@ Vible は **すべてローカルで** 動作します — 音声からテキス
 
 - **Apple Silicon**（M1 以降）搭載の Mac
 - **macOS 12 Monterey** 以降
-- 約 600 MB のダウンロード · 数秒でインストール · **Windows & Linux は近日対応予定**
+- 約 600 MB のダウンロード · 数秒でインストール · **Windows 10/11 対応済み** · Linux は近日対応予定
 
 ---
 
@@ -250,7 +254,7 @@ Vible は **すべてローカルで** 動作します — 音声からテキス
 <details>
 <summary><b>どの Mac に対応していますか？</b></summary>
 
-macOS 12 以降を搭載した、すべての Apple Silicon Mac（M1 以降）に対応します。アプリは署名・公証済みです。Windows と Linux 版はロードマップにあります。
+macOS 12 以降を搭載した、すべての Apple Silicon Mac（M1 以降）に対応します。アプリは署名・公証済みです。署名・公証済みの Windows 10/11 版を現在提供中です。Linux 版はロードマップにあります。
 </details>
 
 <details>

@@ -10,13 +10,15 @@
 
 # Vible — Tu voz, pulida hasta convertirse en texto perfecto
 
-**Habla. Pule. Traduce.** En el dispositivo, al instante y en privado — una capa de voz completa para tu Mac.
+**Habla. Pule. Traduce.** En el dispositivo, al instante y en privado — una capa de voz completa para tu Mac y PC con Windows.
 
 <br/>
 
-[![⬇ Download Vible 2.0.3](https://img.shields.io/badge/⬇_Download-Vible_2.0.3_(.dmg)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg)
+[![⬇ Download for macOS](https://img.shields.io/badge/⬇_Download-macOS_(.dmg)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg)
+[![⬇ Download for Windows](https://img.shields.io/badge/⬇_Download-Windows_(.exe)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible-Setup.exe)
 
 ![macOS 12+](https://img.shields.io/badge/macOS-12%2B-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
+![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
 ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-native-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
 ![Signed & Notarized](https://img.shields.io/badge/Signed_%26_Notarized-✓-34d399?style=for-the-badge&labelColor=0A0B0E)
 
@@ -115,6 +117,8 @@ Vible funciona **totalmente en local** — la conversión de voz a texto y de te
 ## 🚀 Instalación
 
 > [**⬇ Download Vible.dmg**](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg) — luego sigue los pasos en tu idioma a continuación.
+>
+> **¿Usas Windows?** Descarga [`Vible-Setup.exe`](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible-Setup.exe) en su lugar, ejecuta el instalador y abre Vible. Concede el micrófono y mantén **`Ctrl+Alt`** para hablar (sustituye a `⌃⌘` de macOS); pulsa dos veces **`Ctrl+C`** para traducir.
 
 <details open>
 <summary><b>English</b></summary>
@@ -220,7 +224,7 @@ Vible funciona **totalmente en local** — la conversión de voz a texto y de te
 
 - Un Mac con **Apple Silicon** (M1 o posterior)
 - **macOS 12 Monterey** o más reciente
-- ~600 MB de descarga · se instala en segundos · **Windows y Linux próximamente**
+- ~600 MB de descarga · se instala en segundos · **Windows 10/11 ya disponible** · Linux próximamente
 
 ---
 
@@ -250,7 +254,7 @@ Sí. Los modelos predeterminados de voz a texto y de texto a voz se ejecutan loc
 <details>
 <summary><b>¿Qué Macs son compatibles?</b></summary>
 
-Cualquier Mac con Apple Silicon (M1 o posterior) con macOS 12 o más reciente. La app está firmada y notarizada. Las versiones para Windows y Linux están en la hoja de ruta.
+Cualquier Mac con Apple Silicon (M1 o posterior) con macOS 12 o más reciente. La app está firmada y notarizada. Ya hay disponible una versión firmada y notarizada para Windows 10/11; la versión para Linux está en la hoja de ruta.
 </details>
 
 <details>

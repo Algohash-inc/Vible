@@ -10,13 +10,15 @@
 
 # Vible — Your voice, polished into perfect text
 
-**Speak. Polish. Translate.** On-device, instant, and private — a complete voice layer for your Mac.
+**Speak. Polish. Translate.** On-device, instant, and private — a complete voice layer for your Mac and Windows PC.
 
 <br/>
 
-[![⬇ Download Vible 2.0.3](https://img.shields.io/badge/⬇_Download-Vible_2.0.3_(.dmg)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg)
+[![⬇ Download for macOS](https://img.shields.io/badge/⬇_Download-macOS_(.dmg)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg)
+[![⬇ Download for Windows](https://img.shields.io/badge/⬇_Download-Windows_(.exe)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible-Setup.exe)
 
 ![macOS 12+](https://img.shields.io/badge/macOS-12%2B-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
+![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
 ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-native-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
 ![Signed & Notarized](https://img.shields.io/badge/Signed_%26_Notarized-✓-34d399?style=for-the-badge&labelColor=0A0B0E)
 
@@ -115,6 +117,8 @@ Need maximum throughput and the richest neural voices? Flip one switch for **GPU
 ## 🚀 Install
 
 > [**⬇ Download Vible.dmg**](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg) — then follow the steps in your language below.
+>
+> **On Windows?** Download [`Vible-Setup.exe`](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible-Setup.exe) instead, run the installer, then launch Vible. Grant microphone access and hold **`Ctrl+Alt`** to talk (it replaces macOS `⌃⌘`); double-tap **`Ctrl+C`** to translate.
 
 <details open>
 <summary><b>English</b></summary>
@@ -220,7 +224,7 @@ Need maximum throughput and the richest neural voices? Flip one switch for **GPU
 
 - A Mac with **Apple Silicon** (M1 or later)
 - **macOS 12 Monterey** or newer
-- ~600 MB download · installs in seconds · **Windows & Linux coming soon**
+- ~600 MB download · installs in seconds · **Windows 10/11 now supported** · Linux coming soon
 
 ---
 
@@ -250,7 +254,7 @@ Yes. The default speech-to-text and TTS models run locally on Apple Silicon via 
 <details>
 <summary><b>Which Macs are supported?</b></summary>
 
-Any Apple Silicon Mac (M1 or newer) on macOS 12 or later. The app is signed and notarized. Windows and Linux builds are on the roadmap.
+Any Apple Silicon Mac (M1 or newer) on macOS 12 or later. The app is signed and notarized. A signed Windows 10/11 build is available now; a Linux build is on the roadmap.
 </details>
 
 <details>

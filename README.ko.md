@@ -10,13 +10,15 @@
 
 # Vible — 당신의 목소리를 완벽한 텍스트로
 
-**말하고. 다듬고. 번역하세요.** 온디바이스로, 즉시, 그리고 프라이빗하게 — Mac을 위한 완전한 음성 레이어.
+**말하고. 다듬고. 번역하세요.** 온디바이스로, 즉시, 그리고 프라이빗하게 — Mac과 Windows PC를 위한 완전한 음성 레이어.
 
 <br/>
 
-[![⬇ Download Vible 2.0.3](https://img.shields.io/badge/⬇_Download-Vible_2.0.3_(.dmg)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg)
+[![⬇ Download for macOS](https://img.shields.io/badge/⬇_Download-macOS_(.dmg)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg)
+[![⬇ Download for Windows](https://img.shields.io/badge/⬇_Download-Windows_(.exe)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible-Setup.exe)
 
 ![macOS 12+](https://img.shields.io/badge/macOS-12%2B-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
+![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
 ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-native-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
 ![Signed & Notarized](https://img.shields.io/badge/Signed_%26_Notarized-✓-34d399?style=for-the-badge&labelColor=0A0B0E)
 
@@ -115,6 +117,8 @@ Vible은 **완전히 로컬로** 실행됩니다 — 음성-텍스트 변환과 
 ## 🚀 설치
 
 > [**⬇ Vible.dmg 다운로드**](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg) — 그런 다음 아래에서 당신의 언어로 된 단계를 따라 하세요.
+>
+> **Windows 사용자이신가요?** 대신 [`Vible-Setup.exe`](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible-Setup.exe) 를 다운로드하고 설치 프로그램을 실행한 뒤 Vible 을 실행하세요. 마이크를 허용하고 **`Ctrl+Alt`** 를 누른 채 말하세요(macOS 의 `⌃⌘` 에 해당). 번역은 **`Ctrl+C`** 더블 탭.
 
 <details open>
 <summary><b>English</b></summary>
@@ -220,7 +224,7 @@ Vible은 **완전히 로컬로** 실행됩니다 — 음성-텍스트 변환과 
 
 - **Apple Silicon**(M1 이상) 탑재 Mac
 - **macOS 12 Monterey** 이상
-- 약 600 MB 다운로드 · 몇 초 만에 설치 · **Windows & Linux 곧 지원 예정**
+- 약 600 MB 다운로드 · 몇 초 만에 설치 · **Windows 10/11 지원** · Linux 곧 지원 예정
 
 ---
 
@@ -250,7 +254,7 @@ Vible은 **완전히 로컬로** 실행됩니다 — 음성-텍스트 변환과 
 <details>
 <summary><b>어떤 Mac이 지원되나요?</b></summary>
 
-macOS 12 이상을 실행하는 모든 Apple Silicon Mac(M1 이상)입니다. 앱은 서명 및 공증되어 있습니다. Windows와 Linux 빌드는 로드맵에 있습니다.
+macOS 12 이상을 실행하는 모든 Apple Silicon Mac(M1 이상)입니다. 앱은 서명 및 공증되어 있습니다. 서명 및 공증된 Windows 10/11 빌드를 지금 사용할 수 있습니다. Linux 빌드는 로드맵에 있습니다.
 </details>
 
 <details>

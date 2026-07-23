@@ -10,13 +10,15 @@
 
 # Vible — 说出口，即成完美文字
 
-**说话、润色、翻译。** 本地运行、即刻响应、隐私无忧——为你的 Mac 打造的一体化语音层。
+**说话、润色、翻译。** 本地运行、即刻响应、隐私无忧——为你的 Mac 与 Windows PC 打造的一体化语音层。
 
 <br/>
 
-[![⬇ Download Vible 2.0.3](https://img.shields.io/badge/⬇_Download-Vible_2.0.3_(.dmg)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg)
+[![⬇ Download for macOS](https://img.shields.io/badge/⬇_Download-macOS_(.dmg)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg)
+[![⬇ Download for Windows](https://img.shields.io/badge/⬇_Download-Windows_(.exe)-C7CED9?style=for-the-badge&labelColor=0A0B0E)](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible-Setup.exe)
 
 ![macOS 12+](https://img.shields.io/badge/macOS-12%2B-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
+![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
 ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-native-0A0B0E?style=for-the-badge&labelColor=0A0B0E)
 ![Signed & Notarized](https://img.shields.io/badge/Signed_%26_Notarized-✓-34d399?style=for-the-badge&labelColor=0A0B0E)
 
@@ -115,6 +117,8 @@ Vible **全程本地运行**——语音转文字与文本转语音全部通过 
 ## 🚀 安装
 
 > [**⬇ Download Vible.dmg**](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible.dmg) — 然后按下方你的语言中的步骤操作。
+>
+> **用 Windows？** 改为下载 [`Vible-Setup.exe`](https://github.com/Algohash-inc/Vible/releases/latest/download/Vible-Setup.exe)，运行安装程序，然后启动 Vible。授予麦克风权限，按住 **`Ctrl+Alt`** 说话（对应 macOS `⌃⌘`）；双击 **`Ctrl+C`** 翻译。
 
 <details open>
 <summary><b>English</b></summary>
@@ -220,7 +224,7 @@ Vible **全程本地运行**——语音转文字与文本转语音全部通过 
 
 - 一台搭载 **Apple Silicon** 的 Mac（M1 或更新）
 - **macOS 12 Monterey** 或更新版本
-- 约 600 MB 下载 · 数秒内装好 · **Windows 与 Linux 即将推出**
+- 约 600 MB 下载 · 数秒内装好 · **Windows 10/11 已支持** · Linux 即将推出
 
 ---
 
@@ -250,7 +254,7 @@ Vible **全程本地运行**——语音转文字与文本转语音全部通过 
 <details>
 <summary><b>支持哪些 Mac？</b></summary>
 
-任何搭载 Apple Silicon（M1 或更新）、运行 macOS 12 或更高版本的 Mac。应用已签名并公证。Windows 与 Linux 版本已在规划中。
+任何搭载 Apple Silicon（M1 或更新）、运行 macOS 12 或更高版本的 Mac。应用已签名并公证。已提供签名并公证的 Windows 10/11 版本；Linux 版本仍在规划中。
 </details>
 
 <details>
