@@ -1,0 +1,16 @@
+[package]
+name = "vible"
+version = "1.0.0"
+edition = "2021"
+description = "Vible SDK — client for the OpenAI-compatible Vible /v1 API (chat, audio, realtime, cloud calls)."
+license = "MIT"
+
+# 同步（blocking）client，唔需要 async runtime：
+#   reqwest blocking → HTTP / SSE / audio / calls
+#   tungstenite      → realtime WebSocket（自帶 blocking client）
+[dependencies]
+reqwest = { version = "0.12", default-features = false, features = ["blocking", "json", "rustls-tls"] }
+tungstenite = { version = "0.24", features = ["rustls-tls-native-roots"] }
+serde_json = "1"
+
+# 範例：cargo run --example chat / stream / models / speech / transcribe / converse / call / realtime
